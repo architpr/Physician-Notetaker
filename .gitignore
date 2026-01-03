@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables
+.env
+
+# Logs and Outputs
+*.log
+output.txt
+
+# Streamlit
+.streamlit/
+
+# IDEs
+.vscode/
+.idea/
